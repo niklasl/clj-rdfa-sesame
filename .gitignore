@@ -1,0 +1,6 @@
+/pom.xml
+/target
+/native
+/.lein-failures
+/checkouts
+/.lein-deps-sum
